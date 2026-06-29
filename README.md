@@ -1,5 +1,5 @@
-[README.md](https://github.com/user-attachments/files/29448318/README.md)
-# MusicCloud
+[README.md](https://github.com/user-attachments/files/29448365/README.md)
+#  MusicCloud
 
 > A SoundCloud-style Web3 music platform where every artist gets equal time in the spotlight — no follower count, no pay-to-play.
 
