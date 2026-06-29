@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/29448252/README.md)
+[README.md](https://github.com/user-attachments/files/29448318/README.md)
 # MusicCloud
 
 > A SoundCloud-style Web3 music platform where every artist gets equal time in the spotlight — no follower count, no pay-to-play.
@@ -62,4 +62,4 @@ NFT contract on Base L2: [`0xbc72d3e4e82a5faa6cd58316c7da1747d82dd019`](https://
 
 ---
 
-*Built by [@ghostxkitty3](https://github.com/thecathousemp3)*
+*Built by [@thecathousemp3](https://github.com/thecathousemp3)*
