@@ -10,7 +10,7 @@
 
 MusicCloud is built around a simple loop: **connect a wallet → publish → get a fair turn → build an audience → keep the ownership trail.**
 
-- **Free registration** — a signed wallet challenge proves account ownership; no paid registration wall.
+- **$1 registration** — connect a wallet and sign the ownership challenge.
 - **$10 lifetime Pro** — a separate one-time upgrade for the expanded creator toolkit.
 - **Fair discovery** — rotation considers time since last feature instead of treating follower count as destiny.
 - **Creator ownership** — editions and resale activity are designed around visible artist-facing economics on Base L2.
