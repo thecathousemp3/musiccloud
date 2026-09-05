@@ -79,3 +79,10 @@ This public repository is intentionally a **showcase**, not a source-code mirror
 Built for artists who want a real shot, listeners who want to find something new, and collectors who want the trail to make sense.
 
 **MusicCloud — every artist gets heard.**
+## Explore the native blockchain
+
+MusicCloud has a native public chain for provenance, proof, and Music Clouds rewards. This educational showcase explains the protocol without exposing application source code.
+
+[Explore the MusicCloud blockchain ↗](blockchain.html)
+
+![MusicCloud native chain protocol map](showcase/music-cloud-chain.svg)
