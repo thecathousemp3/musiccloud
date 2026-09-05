@@ -2,7 +2,7 @@
 
 > **A fairer home for independent music.** Wallet-native identity, discovery that gives every artist a turn, and creator-owned collectibles on Base L2.
 
-[Open MusicCloud ↗](https://musiccloudmp3.com) · [View the visual showcase ↗](https://thecathousemp3.github.io/musiccloud) · [View the Base contract ↗](https://basescan.org/address/0xbc72d3e4e82a5faa6cd58316c7da1747d82dd019)
+[Open MusicCloud ↗](https://musiccloud.live) · [View the visual showcase ↗](https://thecathousemp3.github.io/musiccloud) · [View the Base contract ↗](https://basescan.org/address/0xbc72d3e4e82a5faa6cd58316c7da1747d82dd019)
 
 ![MusicCloud platform overview](showcase/platform-overview.png)
 
@@ -70,7 +70,7 @@ This public repository is intentionally a **showcase**, not a source-code mirror
 
 ## Live links
 
-- [MusicCloud](https://musiccloudmp3.com)
+- [MusicCloud](https://musiccloud.live)
 - [Visual showcase](https://thecathousemp3.github.io/musiccloud)
 - [Base contract](https://basescan.org/address/0xbc72d3e4e82a5faa6cd58316c7da1747d82dd019)
 
